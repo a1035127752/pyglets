@@ -1,6 +1,6 @@
 import pyglet
 
-# 初始化棋子区域坐标
+# 初始化棋子区域坐标序号
 areas = [[0]*3 for i in range(3)]
 areas[0][0] = 0
 areas[1][0] = 1

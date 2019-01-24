@@ -105,8 +105,6 @@ class T3(pyglet.window.Window):
             if self.STEP > self.MAX_STEP:
                 return
             no,px,py = self.area_no(x,y)
-            self.cells[no].x = px * self.PIECE_SIZE + px
-            self.cells[no].y = py * self.PIECE_SIZE + py
             if self.STEP % 2 == 0:
                 self.cells[no].image = self.imgs.o
                 self.RESULT[px][py] = 2
