@@ -60,7 +60,6 @@ class Snake(pyglet.window.Window):
         食物是红色
         :param x:
         :param y:
-        :param head:
         :return:
         """
         def draw():
