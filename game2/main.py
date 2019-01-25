@@ -29,7 +29,7 @@ class Snake(pyglet.window.Window):
     RIGHT = 2
     DWON = 3
     # 蛇头初始方向，向右
-    DIRECT = DWON
+    DIRECT = RIGHT
     # 步长
     STEP = SIZE
 
