@@ -13,6 +13,7 @@ pip install pyglet==1.3.2
 
 #### 文件介绍
 1. game1  第一个游戏：井字棋
+2. game2  第二个游戏：贪吃蛇
 
 
 #### game1介绍
@@ -33,4 +34,18 @@ pip install pyglet==1.3.2
 ![图2](https://images.gitee.com/uploads/images/2019/0124/160648_082fa12f_1757827.png "2.png")
 
 ![图3](https://images.gitee.com/uploads/images/2019/0124/160700_f6041e62_1757827.png "3.png")
+
+#### game2介绍
+
+- 目录结构
+
+
+```
+- main.py       游戏主程序
+```
+- 游戏预览
+
+![图4](https://images.gitee.com/uploads/images/2019/0125/164139_51fc02a6_1757827.png "4.png")
+
+![图5](https://images.gitee.com/uploads/images/2019/0125/164156_9c294aea_1757827.png "5.png")
 
